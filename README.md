@@ -1,4 +1,4 @@
-# EEL5105 – Circuitos e Técnicas Digitais
+# UFSC EEL5105 – Circuitos e Técnicas Digitais
 
 |            | Descrição                                                          |  Funcionam?                      |
 |------------|:------------------------------------------------------------------ | :------------------------------- |
